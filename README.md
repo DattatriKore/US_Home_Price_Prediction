@@ -17,7 +17,7 @@ example: The US unemployment rate is a national factor
 
 homes (ie. total homes available for sale) (Ex. Availability of land)
 
-Data source: https://fred.stlouisfed.org/
+Data source: https://fred.stlouisfed.org/series/CSUSHPISA.
 
 All the data was collected from the above source and merged together into a dataframe, impact of Unemployment Rate and houses available for sale on the house price was explained.
 
